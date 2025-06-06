@@ -1,6 +1,6 @@
 # Smart Waste Solutions: Integrating AI in Next-Gen Waste Sorting
 
-![Diagram](/demo/blog.jpg)
+![Diagram](blog.jpg)
 
 Have you ever thought of using AI to sort your customer's waste? There are many companies & waste management contractors in the market globally who want to maximize recycling and save the environment. But, the main problem is people tend to throw the waste in the bin they want or nearest to them, regardless of waste signs & symbols located on bins. Some of the key reasons are people: 
 - are unaware of the categories (usually there is a variation of categories)
